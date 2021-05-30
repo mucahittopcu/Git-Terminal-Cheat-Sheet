@@ -1,4 +1,4 @@
-# Github-Terminal-Cheat-Sheet
+# Git-Terminal-Cheat-Sheet
 
 #### From https://gist.github.com/cferdinandi/ef665330286fd5d7127d
 
